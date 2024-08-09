@@ -6,10 +6,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ahmed-sheref-b6804028a" target="_blank">
+  <a href="https://www.linkedin.com/in/ahmedsheref2288" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:ahmedsheref2288@gmail.com">
+  <a href="mailto:ahmedsheref2288@example.com">
     <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
@@ -17,9 +17,6 @@
 <p align="center">
   🌱 I’m currently learning <strong>Advanced C++</strong> and <strong>Competitive Programming Techniques</strong> <br />
   👯 I’m looking to collaborate on <strong>Open Source C++ Projects</strong> <br />
-  🤔 I’m looking for help with <strong>Algorithms Optimization</strong> <br />
-  💬 Ask me about <strong>C++, STL, Algorithms</strong> <br />
-</p>
 
 <hr>
 
@@ -43,5 +40,4 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmedsheref2288&style=flat-square&color=blue" alt="profile views" />
-</p>
+  <img src="https://komare
