@@ -17,8 +17,7 @@
 <p align="center">
   🌱 I’m currently learning <strong>Advanced C++</strong> and <strong>Competitive Programming Techniques</strong> <br />
   👯 I’m looking to collaborate on <strong>Open Source C++ Projects</strong> <br />
-  🤔 I’m looking for help with <strong>Algorithms Optimization</strong> <br />
-  💬 Ask me about <strong>C++, STL, Algorithms</strong> <br />
+  
 </p>
 
 <hr>
