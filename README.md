@@ -2,14 +2,14 @@
 <h3 align="center">Competitive Programmer | C++ Enthusiast</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-sheref&show_icons=true&theme=radical" alt="ahmed-sheref" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedsheref2288&show_icons=true&theme=radical" alt="ahmedsheref2288" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ahmed-sheref" target="_blank">
+  <a href="https://www.linkedin.com/in/ahmed-sheref-b6804028a" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:ahmedsheref2288@example.com">
+  <a href="mailto:ahmedsheref2288@gmail.com">
     <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
@@ -40,5 +40,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmed-sheref&style=flat-square&color=blue" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ahmedsheref2288&style=flat-square&color=blue" alt="profile views" />
 </p>
