@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  🌱 I’m currently learning <strong>Advanced C++</strong> and <strong>Competitive Programming Techniques</strong> <br />
+  🌱 I’m currently learning <strong>Advanced C++</strong> and <strong>Problem solving Techniques</strong> <br />
   👯 I’m looking to collaborate on <strong>Open Source C++ Projects</strong> <br />
 </p>
 
