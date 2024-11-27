@@ -1,8 +1,8 @@
-<h1 align="center">Hi there 👋, I'm Ahmed Sheref</h1>
-<h3 align="center">Competitive Programmer | C++ Enthusiast</h3>
+<h1 align="center">Hi there 👋, I'm <span style="color: #00BFFF">Ahmed Sheref</span></h1>
+<h3 align="center" style="color: #FF6347">Competitive Programmer | C++ Enthusiast</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-sheref&show_icons=true&theme=radical" alt="ahmed-sheref" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-sheref&show_icons=true&theme=radical&hide=prs&count_private=true" alt="ahmed-sheref" />
 </p>
 
 <p align="center">
@@ -14,29 +14,33 @@
   </a>
 </p>
 
-<p align="center">
-  🌱 I’m currently learning <strong>Advanced C++</strong> and <strong>Problem solving Techniques</strong> <br />
-  👯 I’m looking to collaborate on <strong>Open Source C++ Projects</strong> <br />
+<p align="center" style="font-size: 1.2em;">
+  🌱 I’m currently learning <strong style="color: #32CD32;">Advanced C++</strong> and <strong style="color: #32CD32;">Problem Solving Techniques</strong> <br />
+  👯 I’m looking to collaborate on <strong style="color: #FF4500;">Open Source C++ Projects</strong> <br />
+  💬 Ask me about anything related to <strong style="color: #00BFFF;">C++</strong>, <strong style="color: #FF6347;">Git</strong>, or <strong style="color: #DAA520;">Competitive Programming</strong>!
 </p>
 
 <hr>
 
-<h2 align="center">Languages and Tools:</h2>
+<h2 align="center" style="color: #FF6347;">Languages and Tools:</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="VS" />
+  <img src="https://img.shields.io/badge/Code_Blocks-000000?style=for-the-badge&logo=code-blocks&logoColor=white" alt="CodeBlocks" />
 </p>
 
 <hr>
 
-<h2 align="center">Fun Facts:</h2>
+<h2 align="center" style="color: #32CD32;">Fun Facts:</h2>
 
 <p align="center">
   <ul>
-    <li>I love solving complex algorithms and data structure problems.</li>
-    <li>When I'm not coding, I'm likely exploring new outdoor activities.</li>
+    <li>I love solving complex algorithms and data structure problems 💻.</li>
+    <li>When I'm not coding, I explore new outdoor activities like hiking and camping 🏞️.</li>
+    <li>My favorite hobby is competitive programming, where I participate in various contests 🏅.</li>
   </ul>
 </p>
 
@@ -46,7 +50,7 @@
 
 <hr>
 
-<h2 align="center">GitHub Stats & Activity:</h2>
+<h2 align="center" style="color: #FF6347;">GitHub Stats & Activity:</h2>
 
 <p align="center">
   <!-- Total number of commits -->
@@ -57,15 +61,25 @@
   <img src="https://img.shields.io/github/issues/ahmed-sheref?style=for-the-badge&label=Issues&color=yellow" alt="Issues" />
 </p>
 
-<h2 align="center">My GitHub Activity:</h2>
+<h2 align="center" style="color: #32CD32;">My GitHub Activity:</h2>
 
 <p align="center">
   <!-- GitHub Contributions Graph -->
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ahmed-sheref&theme=github" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ahmed-sheref&theme=github&color=blue" alt="GitHub Activity Graph" />
+</p>
+
+<hr>
+
+<h2 align="center" style="color: #FF6347;">Top Repositories:</h2>
+<p align="center">
+  <!-- Link to repositories -->
+  <a href="https://github.com/ahmed-sheref/your-repo-name" target="_blank">
+    <img src="https://img.shields.io/github/stars/ahmed-sheref/your-repo-name?style=for-the-badge&label=Top%20Repo&color=gold" alt="Your Repo"/>
+  </a>
 </p>
 
 <hr>
 
 <p align="center">
-  <i>Let's Connect and Collaborate!</i>
+  <i>Let's Connect and Collaborate! 🌍</i>
 </p>
