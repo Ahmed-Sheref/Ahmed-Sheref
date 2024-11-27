@@ -12,6 +12,9 @@
   <a href="mailto:ahmedsheref2288@example.com">
     <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  <a href="https://codeforces.com/profile/ahmedsheref2288" target="_blank">
+    <img src="https://img.shields.io/badge/-Codeforces-%23003B57?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+  </a>
 </p>
 
 <p align="center" style="font-size: 1.2em;">
@@ -28,8 +31,6 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="VS" />
-  <img src="https://img.shields.io/badge/Code_Blocks-000000?style=for-the-badge&logo=code-blocks&logoColor=white" alt="CodeBlocks" />
 </p>
 
 <hr>
