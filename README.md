@@ -43,3 +43,16 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ahmed-sheref&style=flat-square&color=blue" alt="profile views" />
 </p>
+
+<hr>
+
+<h2 align="center">GitHub Stats & Activity:</h2>
+
+<p align="center">
+  <!-- Total number of commits -->
+  <img src="https://img.shields.io/github/commit-activity/m/ahmed-sheref?style=for-the-badge&label=Commits&color=blue" alt="Commits Activity" />
+  <!-- Number of pull requests -->
+  <img src="https://img.shields.io/github/issues-pr/ahmed-sheref?style=for-the-badge&label=PRs&color=green" alt="PRs" />
+  <!-- Number of issues -->
+  <img src="https://img.shields.io/github/issues/ahmed-sheref?style=for-the-badge&label=Issues&color=yellow" alt="Issues" />
+</p>
