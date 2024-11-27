@@ -56,3 +56,16 @@
   <!-- Number of issues -->
   <img src="https://img.shields.io/github/issues/ahmed-sheref?style=for-the-badge&label=Issues&color=yellow" alt="Issues" />
 </p>
+
+<h2 align="center">My GitHub Activity:</h2>
+
+<p align="center">
+  <!-- GitHub Contributions Graph -->
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ahmed-sheref&theme=github" alt="GitHub Activity Graph" />
+</p>
+
+<hr>
+
+<p align="center">
+  <i>Let's Connect and Collaborate!</i>
+</p>
