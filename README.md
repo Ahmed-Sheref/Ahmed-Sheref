@@ -7,12 +7,13 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Sheref&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false&card_width=400" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmed-Sheref&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=5&theme=dracula&hide_border=false" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Sheref&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false&card_width=450" height="180" alt="Stats Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmed-Sheref&locale=en&hide_title=false&layout=compact&card_width=450&langs_count=6&theme=dracula&hide_border=false" height="180" alt="Languages Graph" />
 </div>
 
 ###
 
+### 🛠 Tech Stack
 <div align="left">
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="C logo" />
   <img width="12" />
