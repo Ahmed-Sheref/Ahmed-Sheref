@@ -7,8 +7,8 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Sheref&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=true&order=1" height="170" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmed-Sheref&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=rose_pine&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Sheref&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=true&card_width=450" height="180" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmed-Sheref&locale=en&hide_title=false&layout=compact&card_width=450&langs_count=6&theme=rose_pine&hide_border=true" height="180" alt="languages graph"  />
 </div>
 
 ###
@@ -32,9 +32,7 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/ahmed-sheref-b6804028a" target="_blank">
+  <a href="https://www.linkedin.com/in/ahmed-sheref-b6804028a" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
-
-###
