@@ -6,8 +6,6 @@
 <ul>
   <li>💡 Passionate about backend development, APIs, and everything that happens behind the scenes of a website.</li>
   <li>🔍 Love solving complex problems and optimizing system performance.</li>
-  <li>⚡ Currently learning <b>[Node.js, Django]</b></li>
-  <li>🤝 Open to collaborations on backend projects and problem-solving challenges.</li>
   <li>📫 Reach me at: <a href="mailto:ahwy837@gmail.com">ahwy837@gmail.com</a></li>
 </ul>
 
