@@ -18,7 +18,7 @@
 </div>
 
 <br clear="both">
-
+<hr>
 <div align="center">
   <a href="www.linkedin.com/in/ahmed-sheref-b6804028a" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="44" height="32" alt="linkedin logo"  />
@@ -30,9 +30,9 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="44" height="32" alt="gmail logo"  />
   </a>
 </div>
+<hr>
 
 ###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Ahmed-Sheref.Ahmed-Sheref&right_color=mediumpurple"  />
 </div>
@@ -80,6 +80,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
 </div>
+<hr>
 
 ###
 
@@ -90,7 +91,7 @@
 <br clear="both">
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itz-youssef&layout=compact&theme=tokyonight" alt="Top Languages" height="200" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Sheref&layout=compact&theme=tokyonight" alt="Top Languages" height="200" />
   <br><br>
   <img src="https://streak-stats.demolab.com?user=Ahmed-Sheref&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
