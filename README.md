@@ -20,16 +20,23 @@
 <br clear="both">
 <hr>
 <div align="center">
-  <a href="www.linkedin.com/in/ahmed-sheref-b6804028a" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="44" height="32" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/ahmed-sheref-b6804028a" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="44" height="32" alt="linkedin logo" />
   </a>
+
   <a href="https://wa.me/201091575793" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="44" height="32" alt="whatsapp logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="44" height="32" alt="whatsapp logo" />
   </a>
+
   <a href="mailto:ahmedsheref395@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="44" height="32" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="44" height="32" alt="gmail logo" />
+  </a>
+
+  <a href="https://codeforces.com/profile/Ahmed.Log" target="_blank">
+    <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="44" height="32" alt="codeforces logo" />
   </a>
 </div>
+
 <hr>
 
 ###
