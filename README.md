@@ -1,16 +1,21 @@
-<br clear="both">
-
 <h2 align="center">Welcome to my GitHub — I'm Ahmed Sheref 👋</h2>
 
+<!-- الصورة على اليمين -->
+<img
+  align="right"
+  height="200"
+  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXh5dW1jZGgydmgwZnl4MGV0c2h3enRsenVxOHpsZjBoYzY4ZWwwcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"
+/>
 
-
-<img align="right" height="130" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXh5dW1jZGgydmgwZnl4MGV0c2h3enRsenVxOHpsZjBoYzY4ZWwwcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"  />
-
-###
-
-<h2 align="left">- Backend Developer in progress (Node.js, APIs, Databases)<br>- Competitive programming enthusiast (ECPC participant)<br>- Interested in data engineering and data analysis<br>- I solve problems and build backend projects in my free time</h2>
-
-###
+<!-- الليست بخط أهدى ومنظم -->
+<div align="left" style="font-size: 14px;">
+<h3>
+- Backend Developer in progress (Node.js, APIs, Databases) <br> <br>
+- Competitive programming enthusiast (ECPC participant)  <br><br>
+- Interested in data engineering and data analysis  <br><br>
+- I solve problems and build backend projects in my free time  <br><br>
+</h3>
+</div>
 
 <br clear="both">
 
