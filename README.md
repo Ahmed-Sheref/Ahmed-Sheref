@@ -98,7 +98,12 @@
 <br clear="both">
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Sheref&layout=compact&theme=tokyonight" alt="Top Languages" height="200" />
+ <img
+  src="https://your-github-stats.vercel.app/api/top-langs/?username=Ahmed-Sheref&layout=compact&theme=tokyonight&count_private=true"
+  alt="Top Languages"
+  height="200"
+/>
+
   <br><br>
   <img src="https://streak-stats.demolab.com?user=Ahmed-Sheref&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
