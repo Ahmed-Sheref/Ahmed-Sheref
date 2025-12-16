@@ -98,12 +98,11 @@
 <br clear="both">
 
 <div align="center">
- <img
-  src="https://your-github-stats.vercel.app/api/top-langs/?username=Ahmed-Sheref&layout=compact&theme=tokyonight&count_private=true"
-  alt="Top Languages"
-  height="200"
-/>
-
+  <img  src="https://githubreadmestreakstats-kappa.vercel.app//?user=Ahmed-Sheref/&theme=highcontrast" width="60%" ><br/>
+   <img alt="TYP Top Language" height="220px" src="https://githubstats-one.vercel.app/api/top-langs/?username=Ahmed-Sheref&langs_count=12&count_private=True&layout=compact&theme=dark&hide_border=false&bg_color=000000"/>
+   <img alt="github status" height="220px" src="https://githubstats-one.vercel.app/api?username=Ahmed-Sheref&show_icons=true&show=prs_merged,prs_merged_percentage&hide=stars&theme=dark&bg_color=000000&hide_border=false&rank_icon=github&icon_color=FF8C00"/>
+</div>
+</div>
   <br><br>
   <img src="https://streak-stats.demolab.com?user=Ahmed-Sheref&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
