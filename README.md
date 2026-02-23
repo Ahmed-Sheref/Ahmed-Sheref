@@ -10,10 +10,10 @@
 <!-- الليست بخط أهدى ومنظم -->
 <div align="left" style="font-size: 14px;">
 <h3>
-- Backend Developer in progress (Node.js, APIs, Databases) <br> <br>
+- Backend Developer <br> <br>
+- Strong foundation in Databases (SQL & NoSQL) and System Design <br><br>
 - Competitive programming enthusiast (ECPC participant)  <br><br>
 - Interested in data engineering and data analysis  <br><br>
-- I solve problems and build backend projects in my free time  <br><br>
 </h3>
 </div>
 
