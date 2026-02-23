@@ -10,7 +10,7 @@
 <!-- الليست بخط أهدى ومنظم -->
 <div align="left" style="font-size: 14px;">
 <h3>
-- Backend Developer <br> <br>
+- Backend Developer specializing in Node.js and RESTful APIs <br> <br>
 - Strong foundation in Databases (SQL & NoSQL) and System Design <br><br>
 - Competitive programming enthusiast (ECPC participant)  <br><br>
 - Interested in data engineering and data analysis  <br><br>
