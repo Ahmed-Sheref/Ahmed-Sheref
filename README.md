@@ -1,6 +1,6 @@
 <h2 align="center">Welcome to my GitHub — I'm Ahmed Sheref 👋</h2>
 
-<!-- الصورة على اليمين -->
+<!-- الصورة على ايمين -->
 <img
   align="right"
   height="200"
