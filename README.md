@@ -91,20 +91,30 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<hr>
 
-###
-
-<br clear="both">
+<h3 align="left">🔥 My Stats</h3>
 
 <div align="center">
-  <img  src="https://githubreadmestreakstats-kappa.vercel.app//?user=Ahmed-Sheref/&theme=highcontrast" width="60%" ><br/>
-   <img alt="TYP Top Language" height="220px" src="https://githubstats-one.vercel.app/api/top-langs/?username=Ahmed-Sheref&langs_count=12&count_private=True&layout=compact&theme=dark&hide_border=false&bg_color=000000"/>
-   <img alt="github status" height="220px" src="https://githubstats-one.vercel.app/api?username=Ahmed-Sheref&show_icons=true&show=prs_merged,prs_merged_percentage&hide=stars&theme=dark&bg_color=000000&hide_border=false&rank_icon=github&icon_color=FF8C00"/>
-</div>
-</div>
-  <br><br>
-  <img src="https://streak-stats.demolab.com?user=Ahmed-Sheref&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Sheref&show_icons=true&show=prs_merged,prs_merged_percentage&hide=stars&theme=dark&bg_color=000000&hide_border=false&rank_icon=github&icon_color=FF8C00&cache_bust=Ahmed_log" height="180px" alt="GitHub Stats" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Sheref&langs_count=12&count_private=True&layout=compact&theme=dark&hide_border=false&bg_color=000000&cache_bust=Ahmed_log" height="180px" alt="Top Languages" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://streak-stats.demolab.com?user=Ahmed-Sheref&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3&cache_bust=Ahmed_log" width="100%" alt="Streak Stats" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-###
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Sheref&theme=highcontrast&cache_bust=Ahmed_log" width="100%" alt="Contribution Streak" />
+</div>
