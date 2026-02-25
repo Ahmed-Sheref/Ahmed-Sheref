@@ -99,18 +99,16 @@
   <table border="0" width="100%">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Sheref&show_icons=true&show=prs_merged,prs_merged_percentage&hide=stars&theme=dark&bg_color=000000&hide_border=false&rank_icon=github&icon_color=FF8C00&cache_bust=Ahmed_log" height="190px" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Sheref&show_icons=true&theme=dark&hide_border=false&icon_color=FF8C00&cache_bust=123" height="180px" alt="GitHub Stats" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Sheref&langs_count=12&count_private=True&layout=compact&theme=dark&hide_border=false&bg_color=000000&cache_bust=Ahmed_log" height="190px" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Sheref&langs_count=10&layout=compact&theme=dark&hide_border=false&cache_bust=123" height="180px" alt="Top Languages" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://streak-stats.demolab.com?user=Ahmed-Sheref&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3&cache_bust=Ahmed_log" width="100%" alt="Contribution Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Sheref&theme=dark&cache_bust=123" width="100%" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
 </div>
-
-<hr>
