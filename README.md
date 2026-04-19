@@ -1,95 +1,94 @@
 <h2 align="center">Welcome to my GitHub — I'm Ahmed Sheref 👋</h2>
 
-<!-- الصورة على ايمين -->
-<img
-  align="right"
-  height="200"
-  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXh5dW1jZGgydmgwZnl4MGV0c2h3enRsenVxOHpsZjBoYzY4ZWwwcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"
-/>
-
-<!-- الليست بخط أهدى ومنظم -->
-<div align="left" style="font-size: 14px;">
-<h3>
-- Backend Developer specializing in Node.js and RESTful APIs <br> <br>
-- Strong foundation in Databases (SQL & NoSQL) and System Design <br><br>
-- Competitive programming enthusiast (ECPC participant)  <br><br>
-- Interested in data engineering and data analysis  <br><br>
-</h3>
-</div>
-
-<br clear="both">
-<hr>
-<div align="center">
-  <a href="https://www.linkedin.com/in/ahmed-sheref-b6804028a" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="44" height="32" alt="linkedin logo" />
-  </a>
-
-  <a href="https://wa.me/201091575793" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="44" height="32" alt="whatsapp logo" />
-  </a>
-
-  <a href="mailto:ahmedsheref395@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="44" height="32" alt="gmail logo" />
-  </a>
-
-  <a href="https://codeforces.com/profile/Ahmed.Log" target="_blank">
-    <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="44" height="32" alt="codeforces logo" />
-  </a>
-</div>
+<table width="100%">
+  <tr>
+    <td width="65%" valign="top">
+      <h3 align="left">About Me</h3>
+      <ul>
+        <li>Backend Developer specializing in Node.js and RESTful APIs</li>
+        <li>Strong foundation in Databases (SQL & NoSQL) and System Design</li>
+        <li>Competitive programming enthusiast (ECPC participant)</li>
+        <li>Interested in Data Engineering and Data Analysis</li>
+      </ul>
+    </td>
+    <td width="35%" align="right" valign="top">
+      <img
+        height="200"
+        src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXh5dW1jZGgydmgwZnl4MGV0c2h3enRsenVxOHpsZjBoYzY4ZWwwcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"
+        alt="coding gif"
+      />
+    </td>
+  </tr>
+</table>
 
 <hr>
 
-###
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ahmed-Sheref.Ahmed-Sheref&right_color=mediumpurple"  />
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/ahmed-sheref-b6804028a" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="44" height="32" alt="linkedin logo" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://wa.me/201091575793" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="44" height="32" alt="whatsapp logo" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:ahmedsheref395@gmail.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="44" height="32" alt="gmail logo" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://codeforces.com/profile/Ahmed.Log" target="_blank">
+        <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="44" height="32" alt="codeforces logo" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-###
+<hr>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ahmed-Sheref.Ahmed-Sheref&right_color=mediumpurple" alt="visitor badge" />
+</div>
 
 <h3 align="left">💻 Language & Frameworks</h3>
 
-###
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
   <img width="9" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoft sql server logo" />
   <img width="9" />
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgresql logo"  />
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgresql logo" />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo" />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo" />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo" />
 </div>
-
-###
 
 <h3 align="left">⚙️ Tools</h3>
 
-###
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo" />
 </div>
-<hr>
-
-###
 
 <hr>
 
